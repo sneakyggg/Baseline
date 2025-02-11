@@ -1,0 +1,20 @@
+[2025-02-10 20:50:11]cp: cannot stat 'arrowfuzz/arrowfuzz': No such file or directory
+[2025-02-10 20:50:11]aggregate_test_100.csv
+[2025-02-10 20:50:11]alltypes_dictionary.avro
+[2025-02-10 20:50:11]alltypes_nulls_plain.avro
+[2025-02-10 20:50:11]alltypes_plain.avro
+[2025-02-10 20:50:11]alltypes_plain.bzip2.avro
+[2025-02-10 20:50:11]alltypes_plain.snappy.avro
+[2025-02-10 20:50:11]alltypes_plain.xz.avro
+[2025-02-10 20:50:11]alltypes_plain.zstandard.avro
+[2025-02-10 20:50:11]binary.avro
+[2025-02-10 20:50:11]datapage_v2.snappy.avro
+[2025-02-10 20:50:11]dict-page-offset-zero.avro
+[2025-02-10 20:50:11]fixed_length_decimal.avro
+[2025-02-10 20:50:11]fixed_length_decimal_legacy.avro
+[2025-02-10 20:50:11]int32_decimal.avro
+[2025-02-10 20:50:11]int64_decimal.avro
+[2025-02-10 20:50:11]list_columns.avro
+[2025-02-10 20:50:11]nested_lists.snappy.avro
+[2025-02-10 20:50:11][2025-02-10T20:50:09-0800][E][60651] cmdlineParse():844 Your fuzzed binary './arrowfuzz' doesn't seem to exist
+[2025-02-10 20:50:11][2025-02-10T20:50:09-0800][F][60651] main():347 Parsing of the cmd-line arguments failed
