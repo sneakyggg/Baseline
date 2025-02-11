@@ -1,0 +1,193 @@
+[2025-01-05 15:45:07]aggregate_test_100.csv
+[2025-01-05 15:45:07]alltypes_dictionary.avro
+[2025-01-05 15:45:07]alltypes_nulls_plain.avro
+[2025-01-05 15:45:07]alltypes_plain.avro
+[2025-01-05 15:45:07]alltypes_plain.bzip2.avro
+[2025-01-05 15:45:07]alltypes_plain.snappy.avro
+[2025-01-05 15:45:07]alltypes_plain.xz.avro
+[2025-01-05 15:45:07]alltypes_plain.zstandard.avro
+[2025-01-05 15:45:07]binary.avro
+[2025-01-05 15:45:07]datapage_v2.snappy.avro
+[2025-01-05 15:45:07]dict-page-offset-zero.avro
+[2025-01-05 15:45:07]fixed_length_decimal.avro
+[2025-01-05 15:45:07]fixed_length_decimal_legacy.avro
+[2025-01-05 15:45:07]int32_decimal.avro
+[2025-01-05 15:45:07]int64_decimal.avro
+[2025-01-05 15:45:07]list_columns.avro
+[2025-01-05 15:45:07]nested_lists.snappy.avro
+[2025-01-05 15:45:07]Start time:'2025-01-05.15.45.06' bin:'./arrowfuzz', input:'in/', output:'out', persistent:false, stdin:false, mutation_rate:5, timeout:10, max_runs:0, threads:20, minimize:false, git_commit:ebacfad1f3e0766351149de883b54a16a6017071
+[2025-01-05 15:45:07][2J[500BEntering phase 1/3: Dry Run
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #0
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #4
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #2
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #13
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #5
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #6
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #3
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #7
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #9
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #8
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #10
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #12
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #11
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #1
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #14
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #15
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #17
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #16
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #18
+[2025-01-05 15:45:07]Launched new fuzzing thread, no. #19
+[2025-01-05 15:45:07]Sz:4 Tm:139,534us (i/b/h/e/p/c) New:0/0/0/16/0/206, Cur:0/0/0/16/0/206
+[2025-01-05 15:45:07]Sz:4 Tm:172,851us (i/b/h/e/p/c) New:0/0/0/8788/150/75393, Cur:0/0/0/8804/150/75599
+[2025-01-05 15:45:07]Entering phase 2/3: Switching to the Feedback Driven Mode
+[2025-01-05 15:45:07]Sz:4 Tm:171,342us (i/b/h/e/p/c) New:0/0/0/0/0/12, Cur:0/0/0/8804/150/75611
+[2025-01-05 15:45:07]Sz:4 Tm:178,586us (i/b/h/e/p/c) New:0/0/0/3/0/13, Cur:0/0/0/8807/150/75624
+[2025-01-05 15:45:07]Sz:4 Tm:203,307us (i/b/h/e/p/c) New:0/0/0/33/0/139, Cur:0/0/0/8840/150/75763
+[2025-01-05 15:45:07]Sz:4 Tm:196,374us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/8840/150/75766
+[2025-01-05 15:45:07]Sz:4 Tm:203,792us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/8840/150/75768
+[2025-01-05 15:45:07]Sz:4 Tm:163,906us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/8840/150/75769
+[2025-01-05 15:45:07]Sz:4 Tm:148,653us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/8840/150/75771
+[2025-01-05 15:45:07]Sz:4 Tm:191,230us (i/b/h/e/p/c) New:0/0/0/3/0/30, Cur:0/0/0/8843/150/75801
+[2025-01-05 15:45:07]Sz:4 Tm:188,835us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/8843/150/75802
+[2025-01-05 15:45:07]Sz:8 Tm:101,312us (i/b/h/e/p/c) New:0/0/0/1/0/9547, Cur:0/0/0/8844/150/85349
+[2025-01-05 15:45:07]Sz:8 Tm:96,392us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/8844/150/85353
+[2025-01-05 15:45:07]Sz:8 Tm:116,297us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/8844/150/85356
+[2025-01-05 15:45:07]Sz:8 Tm:107,045us (i/b/h/e/p/c) New:0/0/0/2/0/62, Cur:0/0/0/8846/150/85418
+[2025-01-05 15:45:07]Sz:16 Tm:101,945us (i/b/h/e/p/c) New:0/0/0/0/0/6147, Cur:0/0/0/8846/150/91565
+[2025-01-05 15:45:07]Sz:8 Tm:132,486us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/8846/150/91597
+[2025-01-05 15:45:07]Sz:16 Tm:76,629us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/8846/150/91598
+[2025-01-05 15:45:07]Sz:8 Tm:207,506us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/8846/150/91616
+[2025-01-05 15:45:07]Sz:4 Tm:483,071us (i/b/h/e/p/c) New:0/0/0/0/0/14, Cur:0/0/0/8846/150/91630
+[2025-01-05 15:45:07]Sz:32 Tm:119,591us (i/b/h/e/p/c) New:0/0/0/0/0/3464, Cur:0/0/0/8846/150/95094
+[2025-01-05 15:45:07]Sz:16 Tm:176,816us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/8846/150/95097
+[2025-01-05 15:45:07]Sz:16 Tm:152,012us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/8846/150/95098
+[2025-01-05 15:45:07]Sz:32 Tm:133,809us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/8846/150/95101
+[2025-01-05 15:45:07]Sz:32 Tm:141,067us (i/b/h/e/p/c) New:0/0/0/11/0/13, Cur:0/0/0/8857/150/95114
+[2025-01-05 15:45:07]Sz:16 Tm:171,013us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/8857/150/95116
+[2025-01-05 15:45:07]Sz:32 Tm:163,900us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/8857/150/95117
+[2025-01-05 15:45:07]Sz:16 Tm:119,197us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/8857/150/95135
+[2025-01-05 15:45:07]Sz:8 Tm:431,657us (i/b/h/e/p/c) New:0/0/0/0/0/817, Cur:0/0/0/8857/150/95952
+[2025-01-05 15:45:07]Sz:64 Tm:95,875us (i/b/h/e/p/c) New:0/0/0/3/0/945, Cur:0/0/0/8860/150/96897
+[2025-01-05 15:45:07]Sz:64 Tm:92,169us (i/b/h/e/p/c) New:0/0/0/0/0/12, Cur:0/0/0/8860/150/96909
+[2025-01-05 15:45:07]Sz:32 Tm:156,382us (i/b/h/e/p/c) New:0/0/0/3932/144/22706, Cur:0/0/0/12792/294/119615
+[2025-01-05 15:45:07]Sz:64 Tm:95,161us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/12792/294/119617
+[2025-01-05 15:45:07]Sz:128 Tm:104,162us (i/b/h/e/p/c) New:0/0/0/0/0/4401, Cur:0/0/0/12792/294/124018
+[2025-01-05 15:45:07]Sz:128 Tm:92,193us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/12792/294/124020
+[2025-01-05 15:45:07]Sz:64 Tm:142,950us (i/b/h/e/p/c) New:0/0/0/68/0/2221, Cur:0/0/0/12860/294/126241
+[2025-01-05 15:45:07]Sz:64 Tm:76,154us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/12860/294/126242
+[2025-01-05 15:45:07]Sz:256 Tm:74,220us (i/b/h/e/p/c) New:0/0/0/13/1/291, Cur:0/0/0/12873/295/126533
+[2025-01-05 15:45:07]Sz:32 Tm:263,854us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/12873/295/126534
+[2025-01-05 15:45:07]Sz:8 Tm:659,905us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/12873/295/126539
+[2025-01-05 15:45:07]Sz:16 Tm:96,333us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/12873/295/126541
+[2025-01-05 15:45:07]Sz:128 Tm:73,275us (i/b/h/e/p/c) New:0/0/0/3/0/1408, Cur:0/0/0/12876/295/127949
+[2025-01-05 15:45:07]Sz:32 Tm:274,193us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/12876/295/127952
+[2025-01-05 15:45:07]Sz:456 Tm:137,116us (i/b/h/e/p/c) New:0/0/0/3/0/1196, Cur:0/0/0/12879/295/129148
+[2025-01-05 15:45:07]Sz:256 Tm:87,873us (i/b/h/e/p/c) New:0/0/0/1/0/1113, Cur:0/0/0/12880/295/130261
+[2025-01-05 15:45:07]Sz:236 Tm:127,422us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/12880/295/130265
+[2025-01-05 15:45:07]Sz:128 Tm:55,784us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/12880/295/130266
+[2025-01-05 15:45:07]Sz:213 Tm:253,021us (i/b/h/e/p/c) New:0/0/0/17/0/287, Cur:0/0/0/12897/295/130553
+[2025-01-05 15:45:07]Sz:64 Tm:139,511us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/12897/295/130558
+[2025-01-05 15:45:07]Sz:512 Tm:171,798us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/12897/295/130559
+[2025-01-05 15:45:07]Sz:512 Tm:79,637us (i/b/h/e/p/c) New:0/0/0/3/0/3, Cur:0/0/0/12900/295/130562
+[2025-01-05 15:45:07]Sz:256 Tm:92,341us (i/b/h/e/p/c) New:0/0/0/109/4/3554, Cur:0/0/0/13009/299/134116
+[2025-01-05 15:45:07]Sz:256 Tm:108,591us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/13009/299/134117
+[2025-01-05 15:45:07]Sz:603 Tm:106,412us (i/b/h/e/p/c) New:0/0/0/0/0/837, Cur:0/0/0/13009/299/134954
+[2025-01-05 15:45:07]Sz:128 Tm:136,479us (i/b/h/e/p/c) New:0/0/0/0/0/29, Cur:0/0/0/13009/299/134983
+[2025-01-05 15:45:07]Sz:837 Tm:106,284us (i/b/h/e/p/c) New:0/0/0/1/0/435, Cur:0/0/0/13010/299/135418
+[2025-01-05 15:45:07]Sz:407 Tm:73,479us (i/b/h/e/p/c) New:0/0/0/2/0/4, Cur:0/0/0/13012/299/135422
+[2025-01-05 15:45:07]Sz:436 Tm:119,383us (i/b/h/e/p/c) New:0/0/0/0/0/11, Cur:0/0/0/13012/299/135433
+[2025-01-05 15:45:07]Sz:512 Tm:111,606us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/13012/299/135434
+[2025-01-05 15:45:07]Sz:128 Tm:68,770us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/13012/299/135436
+[2025-01-05 16:00:08]Sz:128 Tm:87,943us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/16539/363/212015
+[2025-01-05 16:15:10]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 16:30:18]Sz:622 Tm:1,854,413us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/16672/363/214769
+[2025-01-05 16:45:22]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 17:00:30][2025-01-05T17:00:30-0800][W][9571] subproc_checkTimeLimit():532 pid=11274 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 17:15:31]BFD: Dwarf Error: found dwarf version '2816', this reader only handles version 2, 3, 4 and 5 information.
+[2025-01-05 17:30:31]Crash (dup): '/home/awen/git/Semantic-oriented-Fuzzing/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.178883a.STACK.c44143452.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping
+[2025-01-05 17:45:32][2025-01-05T17:45:32-0800][W][9566] subproc_checkTimeLimit():532 pid=15704 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 18:00:56]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 18:15:58][2025-01-05T18:15:47-0800][W][9559] subproc_checkTimeLimit():532 pid=33282 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 18:31:01][2025-01-05T18:30:59-0800][W][9566] subproc_checkTimeLimit():524 pid=32903 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-05 18:46:34]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 19:01:35]Sz:174 Tm:2,647,388us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/16711/363/217062
+[2025-01-05 19:16:52]Sz:13650 Tm:4,690,192us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/16782/363/218255
+[2025-01-05 19:31:55][2025-01-05T19:31:50-0800][W][9578] subproc_checkTimeLimit():532 pid=5473 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 19:46:56]Sz:113 Tm:1,992,708us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/16787/363/218608
+[2025-01-05 20:02:00]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 20:17:19]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 20:32:40]Sz:80 Tm:6,027,935us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/16792/363/218719
+[2025-01-05 20:47:42]Sz:7 Tm:2,109,039us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/16798/363/218860
+[2025-01-05 21:02:42]BFD: Dwarf Error: found dwarf version '7434', this reader only handles version 2, 3, 4 and 5 information.
+[2025-01-05 21:17:57]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 21:33:10]Sz:157 Tm:3,423,875us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/16803/363/218930
+[2025-01-05 21:49:21][2025-01-05T21:49:20-0800][W][9568] subproc_checkTimeLimit():532 pid=4758 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 22:04:27]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 22:21:05][2025-01-05T22:21:00-0800][W][9558] subproc_checkTimeLimit():532 pid=16571 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 22:36:07]Crash (dup): '/home/awen/git/Semantic-oriented-Fuzzing/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.178883a.STACK.c44143452.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping
+[2025-01-05 22:51:07]BFD: Dwarf Error: found dwarf version '2816', this reader only handles version 2, 3, 4 and 5 information.
+[2025-01-05 23:07:23][2025-01-05T23:07:22-0800][W][9558] subproc_checkTimeLimit():532 pid=9260 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 23:22:25][2025-01-05T23:22:17-0800][W][9566] subproc_checkTimeLimit():532 pid=2269 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-05 23:37:41]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-05 23:52:51][2025-01-05T23:52:48-0800][W][9559] subproc_checkTimeLimit():532 pid=26299 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 00:07:53][2025-01-06T00:07:48-0800][W][9566] subproc_checkTimeLimit():532 pid=16860 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 00:23:12]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 00:38:29][2025-01-06T00:38:29-0800][W][9573] subproc_checkTimeLimit():532 pid=6001 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 00:54:07]Sz:68 Tm:2,172,264us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/16813/363/219178
+[2025-01-06 01:10:43][2025-01-06T01:10:41-0800][W][9571] subproc_checkTimeLimit():532 pid=31381 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 01:26:01][2025-01-06T01:26:01-0800][W][9568] subproc_checkTimeLimit():532 pid=22087 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 01:41:20]Sz:471 Tm:6,578,540us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/16821/363/219323
+[2025-01-06 01:56:27][2025-01-06T01:56:17-0800][W][9562] subproc_checkTimeLimit():524 pid=7601 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-06 02:11:42][2025-01-06T02:11:34-0800][W][9573] subproc_checkTimeLimit():532 pid=14448 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 02:27:35]Sz:150 Tm:564,977us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/16823/363/219651
+[2025-01-06 02:42:36][2025-01-06T02:42:36-0800][W][9567] subproc_checkTimeLimit():524 pid=1540 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-06 02:57:37][2025-01-06T02:57:33-0800][W][9571] subproc_checkTimeLimit():532 pid=2172 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 03:13:00]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 03:28:58][2025-01-06T03:28:58-0800][W][9568] subproc_checkTimeLimit():532 pid=9248 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 03:44:04]Crash (dup): '/home/awen/git/Semantic-oriented-Fuzzing/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.178883a.STACK.c44143452.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping
+[2025-01-06 03:59:13][2025-01-06T03:59:10-0800][W][9568] subproc_checkTimeLimit():532 pid=31952 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 04:14:34][2025-01-06T04:14:34-0800][W][9577] subproc_checkTimeLimit():532 pid=35850 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 04:29:37][2025-01-06T04:29:35-0800][W][9572] subproc_checkTimeLimit():532 pid=32742 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 04:45:02][2025-01-06T04:44:59-0800][W][9577] subproc_checkTimeLimit():532 pid=20220 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 05:00:19]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 05:17:18][2025-01-06T05:17:15-0800][W][9565] subproc_checkTimeLimit():532 pid=14037 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 05:33:00][2025-01-06T05:32:52-0800][W][9563] subproc_checkTimeLimit():532 pid=19404 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 05:48:01][2025-01-06T05:47:52-0800][W][9577] subproc_checkTimeLimit():532 pid=39258 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 06:03:05]Sz:34 Tm:1,252,004us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/16854/363/220779
+[2025-01-06 06:19:07]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 06:34:13][2025-01-06T06:34:03-0800][W][9561] subproc_checkTimeLimit():524 pid=387 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-06 06:49:30]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 07:05:41][2025-01-06T07:05:39-0800][W][9563] subproc_checkTimeLimit():532 pid=7077 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 07:20:43][2025-01-06T07:20:35-0800][W][9560] subproc_checkTimeLimit():524 pid=31101 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-06 07:35:58][2025-01-06T07:35:54-0800][W][9577] subproc_checkTimeLimit():532 pid=35938 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 07:51:04][2025-01-06T07:51:03-0800][W][9557] subproc_checkTimeLimit():532 pid=34007 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 08:06:08][2025-01-06T08:06:08-0800][W][9560] subproc_checkTimeLimit():532 pid=36475 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 08:21:16][2025-01-06T08:21:14-0800][W][9568] subproc_checkTimeLimit():532 pid=16981 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 08:37:18]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 08:52:50][2025-01-06T08:52:49-0800][W][9566] subproc_checkTimeLimit():532 pid=32424 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 09:08:09]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 09:23:22]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 09:38:46][2025-01-06T09:38:42-0800][W][9564] subproc_checkTimeLimit():532 pid=31946 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 09:54:06][2025-01-06T09:54:04-0800][W][9567] subproc_checkTimeLimit():532 pid=18040 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 10:09:29][2025-01-06T10:09:27-0800][W][9568] subproc_checkTimeLimit():532 pid=19922 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 10:24:46][2025-01-06T10:24:38-0800][W][9566] subproc_checkTimeLimit():532 pid=20123 took too much time (limit 10 s). Killing it with SIGKILLBFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 10:39:50][2025-01-06T10:39:43-0800][W][9564] subproc_checkTimeLimit():532 pid=16360 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 10:55:07][2025-01-06T10:54:59-0800][W][9573] subproc_checkTimeLimit():532 pid=16654 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 11:10:16][2025-01-06T11:10:11-0800][W][9564] subproc_checkTimeLimit():532 pid=3816 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 11:25:30]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 11:42:23]Sz:4570 Tm:2,953,584us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/16888/363/221444
+[2025-01-06 11:57:53]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 12:12:58][2025-01-06T12:12:48-0800][W][9571] subproc_checkTimeLimit():532 pid=21877 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 12:28:46][2025-01-06T12:28:40-0800][W][9568] subproc_checkTimeLimit():532 pid=36341 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 12:44:43][2025-01-06T12:44:41-0800][W][9567] subproc_checkTimeLimit():532 pid=40267 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 13:00:24][2025-01-06T13:00:12-0800][W][9568] subproc_checkTimeLimit():532 pid=32048 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 13:15:31][2025-01-06T13:15:19-0800][W][9568] subproc_checkTimeLimit():532 pid=24622 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 13:30:32]subproc_checkTimeLimit():524 pid=17615 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-06 13:45:48]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 14:00:54]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 14:15:57]BFD: Dwarf Error: Invalid or unhandled FORM value: 0x25.
+[2025-01-06 14:32:29][2025-01-06T14:32:28-0800][W][9571] subproc_checkTimeLimit():532 pid=21411 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 14:47:29][2025-01-06T14:47:27-0800][W][9573] subproc_checkTimeLimit():524 pid=829 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-01-06 15:02:38]Crash (dup): '/home/awen/git/Semantic-oriented-Fuzzing/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.178883a.STACK.c44143452.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping
+[2025-01-06 15:17:38][2025-01-06T15:17:28-0800][W][9577] subproc_checkTimeLimit():532 pid=31171 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-01-06 15:33:56][2025-01-06T15:33:50-0800][W][9563] subproc_checkTimeLimit():532 pid=9878 took too much time (limit 10 s). Killing it with SIGKILL

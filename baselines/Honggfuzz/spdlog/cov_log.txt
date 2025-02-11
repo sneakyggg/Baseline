@@ -1,0 +1,97 @@
+[2025-02-07 15:01:10]binary_data
+[2025-02-07 15:01:10]empty
+[2025-02-07 15:01:10]format_strings
+[2025-02-07 15:01:10]json_sample
+[2025-02-07 15:01:10]long_message
+[2025-02-07 15:01:10]null_bytes
+[2025-02-07 15:01:10]seed1
+[2025-02-07 15:01:10]seed2
+[2025-02-07 15:01:10]seed3
+[2025-02-07 15:01:10]special_chars
+[2025-02-07 15:01:10]unicode
+[2025-02-07 15:01:10]whitespace
+[2025-02-07 15:01:10]xml_sample
+[2025-02-07 15:01:10]Start time:'2025-02-07.15.01.08' bin:'./spdlogfuzz', input:'in/', output:'out', persistent:false, stdin:false, mutation_rate:5, timeout:10, max_runs:0, threads:30, minimize:false, git_commit:ebacfad1f3e0766351149de883b54a16a6017071
+[2025-02-07 15:01:10][2J[500BEntering phase 1/3: Dry Run
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #0
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #1
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #2
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #3
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #4
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #5
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #6
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #7
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #8
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #18
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #10
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #11
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #12
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #13
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #14
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #15
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #16
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #17
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #9
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #19
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #20
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #21
+[2025-02-07 15:01:10]Sz:0 Tm:132,821us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/1/0/1
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #22
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #23
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #24
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #25
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #26
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #27
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #28
+[2025-02-07 15:01:10]Launched new fuzzing thread, no. #29
+[2025-02-07 15:01:10]Entering phase 2/3: Switching to the Feedback Driven Mode
+[2025-02-07 15:01:10]Sz:4 Tm:331,925us (i/b/h/e/p/c) New:0/0/0/933/6/4396, Cur:0/0/0/934/6/4397
+[2025-02-07 15:01:10]Sz:4 Tm:716,085us (i/b/h/e/p/c) New:0/0/0/258/10/1604, Cur:0/0/0/1192/16/6001
+[2025-02-07 15:01:10]Sz:4 Tm:612,982us (i/b/h/e/p/c) New:0/0/0/0/0/1537, Cur:0/0/0/1192/16/7538
+[2025-02-07 15:01:10]Sz:16 Tm:86,287us (i/b/h/e/p/c) New:0/0/0/0/0/992, Cur:0/0/0/1192/16/8530
+[2025-02-07 15:01:10]Sz:32 Tm:86,111us (i/b/h/e/p/c) New:0/0/0/0/0/548, Cur:0/0/0/1192/16/9078
+[2025-02-07 15:01:10]Sz:64 Tm:125,020us (i/b/h/e/p/c) New:0/0/0/0/0/68, Cur:0/0/0/1192/16/9146
+[2025-02-07 15:01:10]Sz:36 Tm:163,581us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/1192/16/9148
+[2025-02-07 15:01:10]Sz:128 Tm:69,576us (i/b/h/e/p/c) New:0/0/0/0/0/833, Cur:0/0/0/1192/16/9981
+[2025-02-07 15:01:10]Sz:256 Tm:57,142us (i/b/h/e/p/c) New:0/0/0/17/1/229, Cur:0/0/0/1209/17/10210
+[2025-02-07 15:01:10]Sz:512 Tm:27,427us (i/b/h/e/p/c) New:0/0/0/1/0/45, Cur:0/0/0/1210/17/10255
+[2025-02-07 15:01:10]Sz:1000 Tm:29,706us (i/b/h/e/p/c) New:0/0/0/0/0/247, Cur:0/0/0/1210/17/10502
+[2025-02-07 15:01:10]Entering phase 3/3: Dynamic Main (Feedback Driven Mode)
+[2025-02-07 15:01:10]Sz:347 Tm:1,223,417us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/10503
+[2025-02-07 15:01:10]Sz:8 Tm:600,832us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/1210/17/10521
+[2025-02-07 15:01:11]Sz:256 Tm:103,817us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/1210/17/10523
+[2025-02-07 15:01:11]Sz:21 Tm:554,856us (i/b/h/e/p/c) New:0/0/0/0/0/576, Cur:0/0/0/1210/17/11099
+[2025-02-07 15:01:11]Sz:512 Tm:1,000,480us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11100
+[2025-02-07 15:01:11]Sz:256 Tm:641,435us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11101
+[2025-02-07 15:01:12]Sz:1923 Tm:788,431us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11102
+[2025-02-07 15:01:12]Sz:8 Tm:565,357us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11103
+[2025-02-07 15:01:13]Sz:14 Tm:49,628us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/1210/17/11110
+[2025-02-07 15:01:14]Sz:256 Tm:62,123us (i/b/h/e/p/c) New:0/0/0/0/0/16, Cur:0/0/0/1210/17/11126
+[2025-02-07 15:01:14]Sz:512 Tm:857,331us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11127
+[2025-02-07 15:01:16]Sz:19 Tm:543,562us (i/b/h/e/p/c) New:0/0/0/0/0/488, Cur:0/0/0/1210/17/11615
+[2025-02-07 15:01:16]Sz:10 Tm:83,310us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11616
+[2025-02-07 15:01:16]Sz:264 Tm:1,511,639us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11617
+[2025-02-07 15:01:17]Sz:308 Tm:72,657us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11618
+[2025-02-07 15:01:18]Sz:10 Tm:471,044us (i/b/h/e/p/c) New:0/0/0/0/0/73, Cur:0/0/0/1210/17/11691
+[2025-02-07 15:01:18]Sz:350 Tm:947,855us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11692
+[2025-02-07 15:01:21]Sz:595 Tm:1,152,225us (i/b/h/e/p/c) New:0/0/0/0/0/16, Cur:0/0/0/1210/17/11708
+[2025-02-07 15:01:22]Sz:272 Tm:335,382us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11709
+[2025-02-07 15:01:22]Sz:1290 Tm:862,595us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/11710
+[2025-02-07 15:01:24]Sz:16 Tm:1,032,112us (i/b/h/e/p/c) New:0/0/0/0/0/761, Cur:0/0/0/1210/17/12471
+[2025-02-07 15:01:29]Sz:740 Tm:96,354us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12472
+[2025-02-07 15:01:29]Sz:407 Tm:628,110us (i/b/h/e/p/c) New:0/0/0/0/0/15, Cur:0/0/0/1210/17/12487
+[2025-02-07 15:01:32]Sz:370 Tm:784,306us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12488
+[2025-02-07 15:01:32]Sz:268 Tm:1,347,185us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12489
+[2025-02-07 15:01:33]Sz:353 Tm:118,406us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12490
+[2025-02-07 15:01:34]Sz:1001 Tm:363,587us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12491
+[2025-02-07 15:01:38]Sz:58 Tm:396,298us (i/b/h/e/p/c) New:0/0/0/0/0/457, Cur:0/0/0/1210/17/12948
+[2025-02-07 15:01:42]Sz:895 Tm:461,048us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12949
+[2025-02-07 15:01:43]Sz:740 Tm:555,845us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12950
+[2025-02-07 15:02:20]Sz:241 Tm:606,778us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12951
+[2025-02-07 15:03:05]Sz:7158 Tm:40,736us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/1210/17/12953
+[2025-02-07 15:11:22]Sz:8182 Tm:31,759us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12954
+[2025-02-07 15:12:35]Sz:4991 Tm:724,866us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1210/17/12955
+[2025-02-07 17:01:51][2025-02-07T17:01:50-0800][W][33213] arch_traceWaitForPidStop():1020 PID 5243 not in a stopped state - status:14 (SIGNALED, signal: 14 (Alarm clock))
+[2025-02-07 17:01:52][2025-02-07T17:01:51-0800][W][33213] arch_attachToNewPid():177 arch_traceAttach(pid=5243) failed
+[2025-02-07 17:01:52][2025-02-07T17:01:52-0800][F][33213] arch_prepareParentAfterFork():204 Couldn't attach to pid=5243
+[2025-02-07 17:01:52][r[500B

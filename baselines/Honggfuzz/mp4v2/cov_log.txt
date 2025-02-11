@@ -1,0 +1,108 @@
+[2025-02-07 15:40:06]aac.mak
+[2025-02-07 15:40:06]alac.mak
+[2025-02-07 15:40:06]alaw
+[2025-02-07 15:40:06]als.mak
+[2025-02-07 15:40:06]amrnb.mak
+[2025-02-07 15:40:06]pcm-s24le
+[2025-02-07 15:40:06]tga
+[2025-02-07 15:40:06]tiff
+[2025-02-07 15:40:06]ts
+[2025-02-07 15:40:06]utvideo.mak
+[2025-02-07 15:40:06]xvid.mak
+[2025-02-07 15:40:06]xwd
+[2025-02-07 15:40:06]yuv4mpeg
+[2025-02-07 15:40:06]Start time:'2025-02-07.15.40.04' bin:'./mp4track', input:'in/', output:'out', persistent:false, stdin:false, mutation_rate:5, timeout:10, max_runs:0, threads:30, minimize:false, git_commit:ebacfad1f3e0766351149de883b54a16a6017071
+[2025-02-07 15:40:06][2J[500BEntering phase 1/3: Dry Run
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #0
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #1
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #2
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #11
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #12
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #13
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #15
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #17
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #6
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #8
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #7
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #9
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #10
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #3
+[2025-02-07 15:40:06]Entering phase 2/3: Switching to the Feedback Driven Mode
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #14
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #4
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #5
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #16
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #18
+[2025-02-07 15:40:06]Sz:4 Tm:229,996us (i/b/h/e/p/c) New:0/0/0/886/36/6701, Cur:0/0/0/886/36/6701
+[2025-02-07 15:40:06]Sz:4 Tm:598,520us (i/b/h/e/p/c) New:0/0/0/1233/3/4756, Cur:0/0/0/2119/39/11457
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #20
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #21
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #22
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #23
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #24
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #25
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #26
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #27
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #28
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #29
+[2025-02-07 15:40:06]Launched new fuzzing thread, no. #19
+[2025-02-07 15:40:06]Sz:8 Tm:353,412us (i/b/h/e/p/c) New:0/0/0/161/2/4546, Cur:0/0/0/2280/41/16003
+[2025-02-07 15:40:06]Sz:8 Tm:315,685us (i/b/h/e/p/c) New:0/0/0/0/0/44, Cur:0/0/0/2280/41/16047
+[2025-02-07 15:40:06]Sz:8 Tm:464,687us (i/b/h/e/p/c) New:0/0/0/2/0/63, Cur:0/0/0/2282/41/16110
+[2025-02-07 15:40:06]Sz:8 Tm:299,667us (i/b/h/e/p/c) New:0/0/0/0/0/38, Cur:0/0/0/2282/41/16148
+[2025-02-07 15:40:06]Sz:8 Tm:316,047us (i/b/h/e/p/c) New:0/0/0/0/0/11, Cur:0/0/0/2282/41/16159
+[2025-02-07 15:40:06]Sz:8 Tm:464,789us (i/b/h/e/p/c) New:0/0/0/0/0/33, Cur:0/0/0/2282/41/16192
+[2025-02-07 15:40:06]Sz:8 Tm:299,721us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/2282/41/16198
+[2025-02-07 15:40:06]Sz:8 Tm:315,979us (i/b/h/e/p/c) New:0/0/0/1/0/153, Cur:0/0/0/2283/41/16351
+[2025-02-07 15:40:06]Sz:8 Tm:312,115us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/2283/41/16356
+[2025-02-07 15:40:06]Sz:8 Tm:399,031us (i/b/h/e/p/c) New:0/0/0/1/0/63, Cur:0/0/0/2284/41/16419
+[2025-02-07 15:40:06]Sz:8 Tm:434,419us (i/b/h/e/p/c) New:0/0/0/0/0/14, Cur:0/0/0/2284/41/16433
+[2025-02-07 15:40:06]Sz:16 Tm:172,785us (i/b/h/e/p/c) New:0/0/0/52/6/2046, Cur:0/0/0/2336/47/18479
+[2025-02-07 15:40:06]Sz:16 Tm:357,446us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/18480
+[2025-02-07 15:40:06]Sz:16 Tm:463,785us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/2336/47/18483
+[2025-02-07 15:40:06]Sz:16 Tm:479,810us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/18484
+[2025-02-07 15:40:06]Sz:16 Tm:496,466us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/18485
+[2025-02-07 15:40:06]Sz:32 Tm:105,100us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2336/47/18487
+[2025-02-07 15:40:06]Sz:32 Tm:267,145us (i/b/h/e/p/c) New:0/0/0/0/0/51, Cur:0/0/0/2336/47/18538
+[2025-02-07 15:40:06]Sz:32 Tm:364,261us (i/b/h/e/p/c) New:0/0/0/0/0/1296, Cur:0/0/0/2336/47/19834
+[2025-02-07 15:40:06]Sz:32 Tm:350,135us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/19835
+[2025-02-07 15:40:06]Sz:64 Tm:232,641us (i/b/h/e/p/c) New:0/0/0/0/0/380, Cur:0/0/0/2336/47/20215
+[2025-02-07 15:40:06]Sz:32 Tm:408,200us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/20216
+[2025-02-07 15:40:06]Sz:64 Tm:400,576us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2336/47/20218
+[2025-02-07 15:40:07]Sz:64 Tm:409,328us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/20219
+[2025-02-07 15:40:07]Sz:64 Tm:372,317us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/20220
+[2025-02-07 15:40:07]Sz:64 Tm:451,201us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/20221
+[2025-02-07 15:40:07]Sz:128 Tm:451,405us (i/b/h/e/p/c) New:0/0/0/0/0/1101, Cur:0/0/0/2336/47/21322
+[2025-02-07 15:40:07]Sz:134 Tm:130,568us (i/b/h/e/p/c) New:0/0/0/0/0/184, Cur:0/0/0/2336/47/21506
+[2025-02-07 15:40:07]Sz:256 Tm:223,834us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2336/47/21508
+[2025-02-07 15:40:07]Sz:151 Tm:152,500us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/21509
+[2025-02-07 15:40:07]Sz:392 Tm:42,838us (i/b/h/e/p/c) New:0/0/0/0/0/75, Cur:0/0/0/2336/47/21584
+[2025-02-07 15:40:07]Sz:256 Tm:203,550us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2336/47/21585
+[2025-02-07 15:40:07]Sz:351 Tm:113,256us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2336/47/21587
+[2025-02-07 15:40:07]Sz:1024 Tm:57,204us (i/b/h/e/p/c) New:0/0/0/0/0/160, Cur:0/0/0/2336/47/21747
+[2025-02-07 15:40:08]Sz:1346 Tm:264,286us (i/b/h/e/p/c) New:0/0/0/0/0/23, Cur:0/0/0/2336/47/21770
+[2025-02-07 15:40:08]Sz:4096 Tm:69,026us (i/b/h/e/p/c) New:0/0/0/0/0/981, Cur:0/0/0/2336/47/22751
+[2025-02-07 15:40:08]Sz:4418 Tm:131,369us (i/b/h/e/p/c) New:0/0/0/0/0/168, Cur:0/0/0/2336/47/22919
+[2025-02-07 15:40:08]Entering phase 3/3: Dynamic Main (Feedback Driven Mode)
+[2025-02-07 15:40:09]Sz:15 Tm:3,213,041us (i/b/h/e/p/c) New:0/0/0/2/0/7, Cur:0/0/0/2338/47/22926
+[2025-02-07 15:40:09]Sz:7 Tm:3,909,217us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2338/47/22928
+[2025-02-07 15:40:09]Sz:20 Tm:3,476,444us (i/b/h/e/p/c) New:0/0/0/1/0/205, Cur:0/0/0/2339/47/23133
+[2025-02-07 15:40:09]Sz:13 Tm:3,548,093us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2339/47/23135
+[2025-02-07 15:40:09]Sz:16 Tm:3,990,122us (i/b/h/e/p/c) New:0/0/0/0/0/42, Cur:0/0/0/2339/47/23177
+[2025-02-07 15:40:09]Sz:13 Tm:3,723,810us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2339/47/23178
+[2025-02-07 15:40:09]Sz:37 Tm:3,919,312us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2339/47/23180
+[2025-02-07 15:40:09]Sz:12 Tm:3,780,750us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/2339/47/23183
+[2025-02-07 15:40:09]Sz:16 Tm:3,656,336us (i/b/h/e/p/c) New:0/0/0/1/0/111, Cur:0/0/0/2340/47/23294
+[2025-02-07 15:40:09]Sz:16 Tm:3,656,719us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/2340/47/23296
+[2025-02-07 15:40:09]Sz:12 Tm:4,317,417us (i/b/h/e/p/c) New:0/0/0/2/0/6, Cur:0/0/0/2342/47/23302
+[2025-02-07 15:40:09]Sz:36 Tm:1,998,998us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/2343/47/23303
+[2025-02-07 15:40:09]Sz:72 Tm:2,035,800us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2343/47/23304
+[2025-02-07 15:40:09]Sz:8 Tm:4,156,875us (i/b/h/e/p/c) New:0/0/0/1/0/29, Cur:0/0/0/2344/47/23333
+[2025-02-07 15:55:09]Sz:48 Tm:968,256us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/2699/98/31702
+[2025-02-07 16:10:11][2025-02-07T16:10:09-0800][W][16087] subproc_checkTimeLimit():524 pid=1183 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-02-07 16:25:11]Sz:35 Tm:571,870us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/2872/119/34314
+[2025-02-07 16:40:12][2025-02-07T16:40:11-0800][W][16085] subproc_checkTimeLimit():524 pid=58693 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-02-07 16:55:13][2025-02-07T16:55:11-0800][W][16081] subproc_checkTimeLimit():532 pid=49776 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-02-07 17:10:19][2025-02-07T17:10:18-0800][W][16085] subproc_checkTimeLimit():532 pid=21627 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-02-07 17:25:24][2025-02-07T17:25:24-0800][W][16069] subproc_checkTimeLimit():532 pid=41842 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-02-07 17:40:36][2025-02-07T17:40:35-0800][W][16085] subproc_checkTimeLimit():532 pid=61092 took too much time (limit 10 s). Killing it with SIGKILL
