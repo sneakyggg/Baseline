@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_DIR="$(pwd)/../../Benchmarks/baselines/AFL++"
+SOURCE_DIR="../../../Benchmarks/baselines/AFL++"
 
 if [ ! -d "$SOURCE_DIR" ]; then
 	echo "Source dir doesn't exist"
