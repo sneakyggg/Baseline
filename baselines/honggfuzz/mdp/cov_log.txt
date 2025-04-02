@@ -1,0 +1,116 @@
+[2025-03-30 19:50:12]aiff
+[2025-03-30 19:50:12]alac
+[2025-03-30 19:50:12]functions_list
+[2025-03-30 19:50:12]gxf
+[2025-03-30 19:50:12]project.yaml
+[2025-03-30 19:50:12]symbolic_summary.json
+[2025-03-30 19:50:12]Start time:'2025-03-30.19.50.10' bin:'./mdp', input:'in/', output:'out', persistent:false, stdin:false, mutation_rate:5, timeout:10, max_runs:0, threads:30, minimize:false, git_commit:2ea049e6eaddf912e8c55840c45c89296eac977f
+[2025-03-30 19:50:12][2J[500BEntering phase 1/3: Dry Run
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #0
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #1
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #2
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #3
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #4
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #5
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #6
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #28
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #8
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #9
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #10
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #11
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #12
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #13
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #14
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #15
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #16
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #17
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #18
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #19
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #20
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #21
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #22
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #23
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #24
+[2025-03-30 19:50:12]Sz:4 Tm:95,775us (i/b/h/e/p/c) New:0/0/0/2/0/4, Cur:0/0/0/2/0/4
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #25
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #26
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #27
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #7
+[2025-03-30 19:50:12]Launched new fuzzing thread, no. #29
+[2025-03-30 19:50:12]Entering phase 2/3: Switching to the Feedback Driven Mode
+[2025-03-30 19:50:12]Sz:4 Tm:292,894us (i/b/h/e/p/c) New:0/0/0/70/4/2220, Cur:0/0/0/72/4/2224
+[2025-03-30 19:50:12]Sz:4 Tm:294,962us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/72/4/2225
+[2025-03-30 19:50:12]Sz:4 Tm:260,077us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/72/4/2226
+[2025-03-30 19:50:12]Sz:4 Tm:292,322us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/72/4/2227
+[2025-03-30 19:50:12]Sz:8 Tm:79,633us (i/b/h/e/p/c) New:0/0/0/0/0/27, Cur:0/0/0/72/4/2254
+[2025-03-30 19:50:12]Sz:8 Tm:375,632us (i/b/h/e/p/c) New:0/0/0/0/0/54, Cur:0/0/0/72/4/2308
+[2025-03-30 19:50:12]Sz:16 Tm:352,020us (i/b/h/e/p/c) New:0/0/0/0/0/23, Cur:0/0/0/72/4/2331
+[2025-03-30 19:50:12]Sz:16 Tm:86,660us (i/b/h/e/p/c) New:0/0/0/0/0/48, Cur:0/0/0/72/4/2379
+[2025-03-30 19:50:12]Sz:32 Tm:36,953us (i/b/h/e/p/c) New:0/0/0/0/0/24, Cur:0/0/0/72/4/2403
+[2025-03-30 19:50:12]Sz:32 Tm:100,561us (i/b/h/e/p/c) New:0/0/0/11/0/416, Cur:0/0/0/83/4/2819
+[2025-03-30 19:50:12]Sz:16 Tm:107,452us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/83/4/2820
+[2025-03-30 19:50:12]Sz:64 Tm:133,775us (i/b/h/e/p/c) New:0/0/0/5/3/144, Cur:0/0/0/88/7/2964
+[2025-03-30 19:50:12]Sz:32 Tm:147,997us (i/b/h/e/p/c) New:0/0/0/3/1/38, Cur:0/0/0/91/8/3002
+[2025-03-30 19:50:12]Sz:64 Tm:163,702us (i/b/h/e/p/c) New:0/0/0/0/0/70, Cur:0/0/0/91/8/3072
+[2025-03-30 19:50:12]Sz:128 Tm:104,133us (i/b/h/e/p/c) New:0/0/0/0/0/25, Cur:0/0/0/91/8/3097
+[2025-03-30 19:50:12]Sz:128 Tm:79,862us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/91/8/3115
+[2025-03-30 19:50:12]Sz:64 Tm:128,837us (i/b/h/e/p/c) New:0/0/0/0/0/13, Cur:0/0/0/91/8/3128
+[2025-03-30 19:50:12]Sz:64 Tm:221,209us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/91/8/3130
+[2025-03-30 19:50:12]Sz:137 Tm:151,902us (i/b/h/e/p/c) New:0/0/0/2/0/34, Cur:0/0/0/93/8/3164
+[2025-03-30 19:50:12]Sz:256 Tm:79,765us (i/b/h/e/p/c) New:0/0/0/0/0/17, Cur:0/0/0/93/8/3181
+[2025-03-30 19:50:12]Sz:128 Tm:94,907us (i/b/h/e/p/c) New:0/0/0/0/0/10, Cur:0/0/0/93/8/3191
+[2025-03-30 19:50:12]Sz:128 Tm:103,747us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/93/8/3193
+[2025-03-30 19:50:12]Sz:128 Tm:145,424us (i/b/h/e/p/c) New:0/0/0/2/0/35, Cur:0/0/0/95/8/3228
+[2025-03-30 19:50:12]Sz:512 Tm:103,885us (i/b/h/e/p/c) New:0/0/0/0/0/44, Cur:0/0/0/95/8/3272
+[2025-03-30 19:50:12]Sz:256 Tm:124,809us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/95/8/3276
+[2025-03-30 19:50:12]Sz:256 Tm:89,474us (i/b/h/e/p/c) New:0/0/0/10/0/222, Cur:0/0/0/105/8/3498
+[2025-03-30 19:50:12]Sz:243 Tm:116,286us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/105/8/3502
+[2025-03-30 19:50:12]Sz:1024 Tm:104,022us (i/b/h/e/p/c) New:0/0/0/0/0/40, Cur:0/0/0/105/8/3542
+[2025-03-30 19:50:12]Sz:512 Tm:94,993us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/105/8/3547
+[2025-03-30 19:50:12]Sz:308 Tm:113,080us (i/b/h/e/p/c) New:0/0/0/12/0/242, Cur:0/0/0/117/8/3789
+[2025-03-30 19:50:12]Sz:2048 Tm:119,939us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/117/8/3796
+[2025-03-30 19:50:12]Sz:1024 Tm:99,409us (i/b/h/e/p/c) New:0/0/0/0/0/10, Cur:0/0/0/117/8/3806
+[2025-03-30 19:50:12]Sz:1459 Tm:160,713us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/117/8/3807
+[2025-03-30 19:50:12]Sz:4096 Tm:214,166us (i/b/h/e/p/c) New:0/0/0/0/0/25, Cur:0/0/0/117/8/3832
+[2025-03-30 19:50:12]Sz:8192 Tm:79,123us (i/b/h/e/p/c) New:0/0/0/0/0/6, Cur:0/0/0/117/8/3838
+[2025-03-30 19:50:12]Sz:16384 Tm:60,052us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/117/8/3841
+[2025-03-30 19:50:12]Sz:32768 Tm:117,578us (i/b/h/e/p/c) New:0/0/0/1/0/33, Cur:0/0/0/118/8/3874
+[2025-03-30 19:50:13]Sz:65536 Tm:193,154us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/118/8/3879
+[2025-03-30 19:50:13]Sz:93228 Tm:237,326us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/118/8/3881
+[2025-03-30 19:50:13]Setting maximum input size to 93228 bytes (previously 93228 bytes)
+[2025-03-30 19:50:13]Entering phase 3/3: Dynamic Main (Feedback Driven Mode)
+[2025-03-30 19:50:13]Sz:5 Tm:2,499,858us (i/b/h/e/p/c) New:0/0/0/1/0/34, Cur:0/0/0/119/8/3915
+[2025-03-30 19:50:13]Sz:32 Tm:2,542,055us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/119/8/3919
+[2025-03-30 19:50:14]Sz:137 Tm:527,782us (i/b/h/e/p/c) New:0/0/0/4/3/34, Cur:0/0/0/123/11/3953
+[2025-03-30 19:50:14]Sz:8 Tm:583,494us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/124/11/3954
+[2025-03-30 19:50:14]Sz:128 Tm:3,093,180us (i/b/h/e/p/c) New:0/0/0/2/0/2, Cur:0/0/0/126/11/3956
+[2025-03-30 19:50:14]Sz:128 Tm:3,162,107us (i/b/h/e/p/c) New:0/0/0/2/1/36, Cur:0/0/0/128/12/3992
+[2025-03-30 19:50:14]Sz:366 Tm:2,913,430us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/128/12/3994
+[2025-03-30 19:50:14]Sz:9 Tm:592,034us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/128/12/3995
+[2025-03-30 19:50:15]Sz:93228 Tm:2,975,854us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/128/12/3996
+[2025-03-30 19:50:15]Sz:551 Tm:901,945us (i/b/h/e/p/c) New:0/0/0/1/0/143, Cur:0/0/0/129/12/4139
+[2025-03-30 19:50:15]Sz:257 Tm:966,796us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/129/12/4141
+[2025-03-30 19:50:15]Sz:133 Tm:917,155us (i/b/h/e/p/c) New:0/0/0/1/0/31, Cur:0/0/0/130/12/4172
+[2025-03-30 19:50:15]Sz:267 Tm:919,165us (i/b/h/e/p/c) New:0/0/0/1/0/1, Cur:0/0/0/131/12/4173
+[2025-03-30 19:50:15]Sz:93228 Tm:236,391us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/131/12/4175
+[2025-03-30 19:50:15]Sz:32773 Tm:1,007,974us (i/b/h/e/p/c) New:0/0/0/1/0/0, Cur:0/0/0/132/12/4175
+[2025-03-30 19:50:15]Sz:312 Tm:1,032,874us (i/b/h/e/p/c) New:0/0/0/1/0/15, Cur:0/0/0/133/12/4190
+[2025-03-30 19:50:15]Sz:36 Tm:1,036,415us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/133/12/4191
+[2025-03-30 19:50:15]Sz:68 Tm:619,156us (i/b/h/e/p/c) New:0/0/0/2/0/62, Cur:0/0/0/135/12/4253
+[2025-03-30 19:50:15]Sz:4 Tm:57,020us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/135/12/4254
+[2025-03-30 20:05:33]Sz:666 Tm:755,687us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/212/19/5819
+[2025-03-30 20:21:08]Sz:2291 Tm:3,047,757us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/225/20/6118
+[2025-03-30 20:43:55]Sz:379 Tm:876,464us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/236/20/6401
+[2025-03-30 20:59:02]Sz:1226 Tm:689,724us (i/b/h/e/p/c) New:0/0/0/3/1/123, Cur:0/0/0/239/21/6530
+[2025-03-30 21:14:59]Sz:1250 Tm:54,685us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/240/21/6563
+[2025-03-30 21:41:16][2025-03-30T21:41:15-0700][W][36084] subproc_checkTimeLimit():532 pid=845 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 21:58:41][2025-03-30T21:58:32-0700][W][36089] subproc_checkTimeLimit():532 pid=45293 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 22:16:24][2025-03-30T22:16:22-0700][W][36096] subproc_checkTimeLimit():532 pid=31544 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 22:38:07][2025-03-30T22:38:06-0700][W][36088] subproc_checkTimeLimit():532 pid=38201 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 22:59:08][2025-03-30T22:59:03-0700][W][36063] subproc_checkTimeLimit():532 pid=38417 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 23:49:20][2025-03-30T23:49:20-0700][W][36100] subproc_checkTimeLimit():532 pid=20471 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 00:58:51][2025-03-31T00:58:51-0700][W][36075] subproc_checkTimeLimit():532 pid=43405 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 01:24:28][2025-03-31T01:24:27-0700][W][36088] subproc_checkTimeLimit():532 pid=61279 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 01:41:29][2025-03-31T01:41:28-0700][W][36075] subproc_checkTimeLimit():532 pid=38421 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 02:00:08][2025-03-31T02:00:07-0700][W][36076] subproc_checkTimeLimit():532 pid=60447 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 02:51:23][2025-03-31T02:51:22-0700][W][36096] arch_traceWaitForPidStop():1020 PID 19570 not in a stopped state - status:14 (SIGNALED, signal: 14 (Alarm clock))

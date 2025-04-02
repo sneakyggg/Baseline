@@ -1,20 +1,109 @@
-[2025-02-10 20:50:11]cp: cannot stat 'arrowfuzz/arrowfuzz': No such file or directory
-[2025-02-10 20:50:11]aggregate_test_100.csv
-[2025-02-10 20:50:11]alltypes_dictionary.avro
-[2025-02-10 20:50:11]alltypes_nulls_plain.avro
-[2025-02-10 20:50:11]alltypes_plain.avro
-[2025-02-10 20:50:11]alltypes_plain.bzip2.avro
-[2025-02-10 20:50:11]alltypes_plain.snappy.avro
-[2025-02-10 20:50:11]alltypes_plain.xz.avro
-[2025-02-10 20:50:11]alltypes_plain.zstandard.avro
-[2025-02-10 20:50:11]binary.avro
-[2025-02-10 20:50:11]datapage_v2.snappy.avro
-[2025-02-10 20:50:11]dict-page-offset-zero.avro
-[2025-02-10 20:50:11]fixed_length_decimal.avro
-[2025-02-10 20:50:11]fixed_length_decimal_legacy.avro
-[2025-02-10 20:50:11]int32_decimal.avro
-[2025-02-10 20:50:11]int64_decimal.avro
-[2025-02-10 20:50:11]list_columns.avro
-[2025-02-10 20:50:11]nested_lists.snappy.avro
-[2025-02-10 20:50:11][2025-02-10T20:50:09-0800][E][60651] cmdlineParse():844 Your fuzzed binary './arrowfuzz' doesn't seem to exist
-[2025-02-10 20:50:11][2025-02-10T20:50:09-0800][F][60651] main():347 Parsing of the cmd-line arguments failed
+[2025-03-30 15:48:54]aggregate_test_100.csv
+[2025-03-30 15:48:54]alltypes_dictionary.avro
+[2025-03-30 15:48:54]alltypes_nulls_plain.avro
+[2025-03-30 15:48:54]alltypes_plain.avro
+[2025-03-30 15:48:54]alltypes_plain.bzip2.avro
+[2025-03-30 15:48:54]alltypes_plain.snappy.avro
+[2025-03-30 15:48:54]alltypes_plain.xz.avro
+[2025-03-30 15:48:54]alltypes_plain.zstandard.avro
+[2025-03-30 15:48:54]binary.avro
+[2025-03-30 15:48:54]datapage_v2.snappy.avro
+[2025-03-30 15:48:54]dict-page-offset-zero.avro
+[2025-03-30 15:48:54]fixed_length_decimal.avro
+[2025-03-30 15:48:54]fixed_length_decimal_legacy.avro
+[2025-03-30 15:48:54]int32_decimal.avro
+[2025-03-30 15:48:54]int64_decimal.avro
+[2025-03-30 15:48:54]list_columns.avro
+[2025-03-30 15:48:54]nested_lists.snappy.avro
+[2025-03-30 15:48:54]Start time:'2025-03-30.15.48.52' bin:'./arrowfuzz', input:'in/', output:'out', persistent:false, stdin:false, mutation_rate:5, timeout:10, max_runs:0, threads:30, minimize:false, git_commit:2ea049e6eaddf912e8c55840c45c89296eac977f
+[2025-03-30 15:48:54][2J[500BEntering phase 1/3: Dry Run
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #0
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #1
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #2
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #4
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #3
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #5
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #6
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #7
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #21
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #23
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #10
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #11
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #12
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #13
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #14
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #15
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #16
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #17
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #18
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #19
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #20
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #8
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #22
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #9
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #24
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #25
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #26
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #27
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #28
+[2025-03-30 15:48:54]Launched new fuzzing thread, no. #29
+[2025-03-30 15:48:54]Entering phase 2/3: Switching to the Feedback Driven Mode
+[2025-03-30 15:48:54]Sz:4 Tm:208,442us (i/b/h/e/p/c) New:0/0/0/0/0/11, Cur:0/0/0/0/0/11
+[2025-03-30 15:48:54]Sz:4 Tm:200,279us (i/b/h/e/p/c) New:0/0/0/164/2/961, Cur:0/0/0/164/2/972
+[2025-03-30 15:48:54]Sz:4 Tm:187,855us (i/b/h/e/p/c) New:0/0/0/0/0/5, Cur:0/0/0/164/2/977
+[2025-03-30 15:48:54]Sz:4 Tm:220,835us (i/b/h/e/p/c) New:0/0/0/1268/38/15468, Cur:0/0/0/1432/40/16445
+[2025-03-30 15:48:54]Sz:4 Tm:212,772us (i/b/h/e/p/c) New:0/0/0/3/0/27, Cur:0/0/0/1435/40/16472
+[2025-03-30 15:48:54]Sz:4 Tm:234,348us (i/b/h/e/p/c) New:0/0/0/412/8/5863, Cur:0/0/0/1847/48/22335
+[2025-03-30 15:48:54]Sz:4 Tm:256,741us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/1847/48/22336
+[2025-03-30 15:48:54]Sz:4 Tm:248,125us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/1847/48/22343
+[2025-03-30 15:48:54]Sz:4 Tm:276,442us (i/b/h/e/p/c) New:0/0/0/1449/9/5321, Cur:0/0/0/3296/57/27664
+[2025-03-30 15:48:54]Sz:4 Tm:333,296us (i/b/h/e/p/c) New:0/0/0/3162/79/15537, Cur:0/0/0/6458/136/43201
+[2025-03-30 15:48:54]Sz:4 Tm:280,840us (i/b/h/e/p/c) New:0/0/0/3/0/30, Cur:0/0/0/6461/136/43231
+[2025-03-30 15:48:54]Sz:4 Tm:355,023us (i/b/h/e/p/c) New:0/0/0/1321/9/27463, Cur:0/0/0/7782/145/70694
+[2025-03-30 15:48:54]Sz:4 Tm:356,637us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/7782/145/70712
+[2025-03-30 15:48:54]Sz:8 Tm:156,554us (i/b/h/e/p/c) New:0/0/0/1/0/8912, Cur:0/0/0/7783/145/79624
+[2025-03-30 15:48:54]Sz:8 Tm:154,390us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/7783/145/79627
+[2025-03-30 15:48:54]Sz:8 Tm:132,025us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/7783/145/79629
+[2025-03-30 15:48:54]Sz:8 Tm:126,171us (i/b/h/e/p/c) New:0/0/0/0/0/32, Cur:0/0/0/7783/145/79661
+[2025-03-30 15:48:54]Sz:8 Tm:116,065us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/7783/145/79663
+[2025-03-30 15:48:54]Sz:8 Tm:195,257us (i/b/h/e/p/c) New:0/0/0/0/0/545, Cur:0/0/0/7783/145/80208
+[2025-03-30 15:48:54]Sz:8 Tm:138,234us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/7783/145/80226
+[2025-03-30 15:48:54]Sz:8 Tm:203,758us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/7783/145/80227
+[2025-03-30 15:48:54]Sz:8 Tm:186,470us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/7783/145/80228
+[2025-03-30 15:48:54]Sz:16 Tm:166,990us (i/b/h/e/p/c) New:0/0/0/0/0/5222, Cur:0/0/0/7783/145/85450
+[2025-03-30 15:48:54]Sz:16 Tm:186,598us (i/b/h/e/p/c) New:0/0/0/0/0/16, Cur:0/0/0/7783/145/85466
+[2025-03-30 15:48:54]Sz:16 Tm:221,133us (i/b/h/e/p/c) New:0/0/0/5/0/155, Cur:0/0/0/7788/145/85621
+[2025-03-30 15:48:54]Sz:16 Tm:199,835us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/7788/145/85639
+[2025-03-30 15:48:54]Sz:16 Tm:214,935us (i/b/h/e/p/c) New:0/0/0/0/0/13, Cur:0/0/0/7788/145/85652
+[2025-03-30 15:48:54]Sz:16 Tm:236,785us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/7788/145/85654
+[2025-03-30 15:48:54]Sz:16 Tm:215,979us (i/b/h/e/p/c) New:0/0/0/10/0/33, Cur:0/0/0/7798/145/85687
+[2025-03-30 15:48:54]Sz:16 Tm:253,815us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/7798/145/85705
+[2025-03-30 15:48:54]Sz:32 Tm:211,924us (i/b/h/e/p/c) New:0/0/0/0/0/2650, Cur:0/0/0/7798/145/88355
+[2025-03-30 15:48:54]Sz:32 Tm:199,073us (i/b/h/e/p/c) New:0/0/0/0/0/18, Cur:0/0/0/7798/145/88373
+[2025-03-30 15:48:54]Sz:32 Tm:207,987us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/7798/145/88374
+[2025-03-30 15:48:54]Sz:32 Tm:246,845us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/7798/145/88375
+[2025-03-30 15:48:54]Sz:32 Tm:292,215us (i/b/h/e/p/c) New:0/0/0/3935/142/23230, Cur:0/0/0/11733/287/111605
+[2025-03-30 15:48:54]Sz:32 Tm:140,725us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/11733/287/111608
+[2025-03-30 15:48:54]Sz:64 Tm:152,820us (i/b/h/e/p/c) New:0/0/0/2/0/427, Cur:0/0/0/11735/287/112035
+[2025-03-30 15:48:54]Sz:64 Tm:194,054us (i/b/h/e/p/c) New:0/0/0/1/0/4, Cur:0/0/0/11736/287/112039
+[2025-03-30 15:48:54]Sz:64 Tm:173,774us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/11736/287/112040
+[2025-03-30 15:48:54]Sz:64 Tm:197,603us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/11736/287/112042
+[2025-03-30 15:48:54]Sz:64 Tm:156,537us (i/b/h/e/p/c) New:0/0/0/68/0/3223, Cur:0/0/0/11804/287/115265
+[2025-03-30 15:48:54]Sz:64 Tm:232,326us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/11804/287/115269
+[2025-03-30 15:48:54]Sz:64 Tm:171,521us (i/b/h/e/p/c) New:0/0/0/18/0/1126, Cur:0/0/0/11822/287/116395
+[2025-03-30 15:48:54]Sz:64 Tm:171,589us (i/b/h/e/p/c) New:0/0/0/2/0/65, Cur:0/0/0/11824/287/116460
+[2025-03-30 15:48:54]Sz:128 Tm:114,336us (i/b/h/e/p/c) New:0/0/0/0/0/2575, Cur:0/0/0/11824/287/119035
+[2025-03-30 15:48:54]Sz:128 Tm:131,942us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/11824/287/119036
+[2025-03-30 15:48:54]Sz:128 Tm:164,789us (i/b/h/e/p/c) New:0/0/0/3/0/1325, Cur:0/0/0/11827/287/120361
+[2025-03-30 15:48:54]Sz:128 Tm:216,025us (i/b/h/e/p/c) New:0/0/0/0/0/218, Cur:0/0/0/11827/287/120579
+[2025-03-30 15:48:54]Sz:128 Tm:182,884us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/11827/287/120580
+[2025-03-30 15:48:54]Sz:256 Tm:196,563us (i/b/h/e/p/c) New:0/0/0/12/1/209, Cur:0/0/0/11839/288/120789
+[2025-03-30 16:04:00]Sz:981 Tm:1,403,661us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/15063/353/188842
+[2025-03-30 16:19:01]Crash (dup): '/home/awen/git/SemaFuzz/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.7fffed54604a.STACK.d8c4c71c5.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping
+[2025-03-30 16:34:02]Sz:30 Tm:358,621us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/15446/353/197557
+[2025-03-30 16:49:06]Sz:205 Tm:1,443,847us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/15455/353/198179
+[2025-03-30 17:04:49]Sz:30 Tm:2,255,331us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/15457/353/198409
+[2025-03-30 17:19:56]Crash (dup): '/home/awen/git/SemaFuzz/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.7fffed54604a.STACK.d8c4c71c5.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping
+[2025-03-30 17:35:07]Sz:496 Tm:2,335,480us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/15531/353/199777
+[2025-03-30 17:51:18]Sz:10 Tm:2,163,871us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/15532/353/199848
+[2025-03-30 18:06:19]Crash (dup): '/home/awen/git/SemaFuzz/Benchmarks/baselines/honggfuzz/arrow/fuzz/SIGSEGV.PC.7fffed54604a.STACK.d8c4c71c5.CODE.1.ADDR.fffffffffffffff8.INSTR.mov____(%rcx),%rcx.fuzz' already exists, skipping

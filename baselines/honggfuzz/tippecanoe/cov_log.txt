@@ -1,0 +1,123 @@
+[2025-03-30 20:43:49]cp: cannot stat '/home/awen/git/SemaFuzz/Benchmarks/baselines/honggfuzz/tippecanoe/tippecanoe/tippecanoe': No such file or directory
+[2025-03-30 20:43:49]2-0-0.pbf
+[2025-03-30 20:43:49]bboxes.pmtiles
+[2025-03-30 20:43:49]bins.json
+[2025-03-30 20:43:49]in.json
+[2025-03-30 20:43:49]ne_110m_populated_places_simple.csv
+[2025-03-30 20:43:49]places-1-1-0.pbf
+[2025-03-30 20:43:49]sf-zips.json
+[2025-03-30 20:43:49]yearbuilt.pbf
+[2025-03-30 20:43:49]Start time:'2025-03-30.20.43.47' bin:'./tippecanoe', input:'in/', output:'out', persistent:false, stdin:false, mutation_rate:5, timeout:10, max_runs:0, threads:30, minimize:false, git_commit:2ea049e6eaddf912e8c55840c45c89296eac977f
+[2025-03-30 20:43:49][2J[500BEntering phase 1/3: Dry Run
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #0
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #1
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #2
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #3
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #4
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #5
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #10
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #11
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #12
+[2025-03-30 20:43:49]Entering phase 2/3: Switching to the Feedback Driven Mode
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #13
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #7
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #16
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #17
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #14
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #15
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #9
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #8
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #18
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #21
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #22
+[2025-03-30 20:43:49]Sz:4 Tm:179,103us (i/b/h/e/p/c) New:0/0/0/27/0/10, Cur:0/0/0/27/0/10
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #20
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #23
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #29
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #24
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #19
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #25
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #26
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #27
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #28
+[2025-03-30 20:43:49]Launched new fuzzing thread, no. #6
+[2025-03-30 20:43:49]Sz:8 Tm:146,194us (i/b/h/e/p/c) New:0/0/0/0/0/75, Cur:0/0/0/27/0/85
+[2025-03-30 20:43:49]Sz:8 Tm:1,087,444us (i/b/h/e/p/c) New:0/0/0/0/0/57, Cur:0/0/0/27/0/142
+[2025-03-30 20:43:49]Sz:16 Tm:130,942us (i/b/h/e/p/c) New:0/0/0/0/0/110, Cur:0/0/0/27/0/252
+[2025-03-30 20:43:49]Sz:32 Tm:164,811us (i/b/h/e/p/c) New:0/0/0/0/0/99, Cur:0/0/0/27/0/351
+[2025-03-30 20:43:49]Sz:128 Tm:169,218us (i/b/h/e/p/c) New:0/0/0/0/0/98, Cur:0/0/0/27/0/449
+[2025-03-30 20:43:50]Sz:256 Tm:304,311us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/27/0/451
+[2025-03-30 20:43:50]Sz:1024 Tm:141,115us (i/b/h/e/p/c) New:0/0/0/0/0/8, Cur:0/0/0/27/0/459
+[2025-03-30 20:43:50]Sz:4096 Tm:116,781us (i/b/h/e/p/c) New:0/0/0/0/0/100, Cur:0/0/0/27/0/559
+[2025-03-30 20:43:51]Sz:16384 Tm:256,572us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/27/0/561
+[2025-03-30 20:43:52]Sz:167806 Tm:233,400us (i/b/h/e/p/c) New:0/0/0/0/0/12, Cur:0/0/0/27/0/573
+[2025-03-30 20:43:53]Sz:4 Tm:5,908,905us (i/b/h/e/p/c) New:0/0/0/508/1/25006, Cur:0/0/0/535/1/25579
+[2025-03-30 20:43:57]Sz:16384 Tm:5,327,154us (i/b/h/e/p/c) New:0/0/0/0/0/27, Cur:0/0/0/535/1/25606
+[2025-03-30 20:44:02]Sz:32768 Tm:5,892,361us (i/b/h/e/p/c) New:0/0/0/0/0/416, Cur:0/0/0/535/1/26022
+[2025-03-30 20:44:07]Sz:62242 Tm:4,799,373us (i/b/h/e/p/c) New:0/0/0/0/0/378, Cur:0/0/0/535/1/26400
+[2025-03-30 20:44:07]Setting maximum input size to 209757 bytes (previously 409600 bytes)
+[2025-03-30 20:44:07]Entering phase 3/3: Dynamic Main (Feedback Driven Mode)
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47036] subproc_checkTimeLimit():532 pid=49154 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47036] subproc_checkTimeLimit():524 pid=49154 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47036] subproc_checkTimeLimit():524 pid=49154 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47039] subproc_checkTimeLimit():532 pid=49156 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47039] subproc_checkTimeLimit():524 pid=49156 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47044] subproc_checkTimeLimit():532 pid=49162 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47044] subproc_checkTimeLimit():524 pid=49162 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47044] subproc_checkTimeLimit():524 pid=49162 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47017] subproc_checkTimeLimit():532 pid=49160 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47017] subproc_checkTimeLimit():524 pid=49160 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47017] subproc_checkTimeLimit():524 pid=49160 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47043] subproc_checkTimeLimit():532 pid=49182 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47043] subproc_checkTimeLimit():524 pid=49182 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:07][2025-03-30T20:44:07-0700][W][47043] subproc_checkTimeLimit():524 pid=49182 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:08][2025-03-30T20:44:08-0700][W][47041] subproc_checkTimeLimit():532 pid=49196 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:08][2025-03-30T20:44:08-0700][W][47041] subproc_checkTimeLimit():524 pid=49196 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:08][2025-03-30T20:44:08-0700][W][47040] subproc_checkTimeLimit():532 pid=49202 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:08][2025-03-30T20:44:08-0700][W][47040] subproc_checkTimeLimit():524 pid=49202 has already been signaled due to timeout. Killing it with SIGKILL
+[2025-03-30 20:44:10][2025-03-30T20:44:08-0700][W][47051] subproc_checkTimeLimit():532 pid=49221 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:10][2025-03-30T20:44:08-0700][W][47023] subproc_checkTimeLimit():532 pid=49230 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:10][2025-03-30T20:44:08-0700][W][47012] subproc_checkTimeLimit():532 pid=49244 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:10][2025-03-30T20:44:08-0700][W][47019] subproc_checkTimeLimit():532 pid=49250 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:10][2025-03-30T20:44:08-0700][W][47050] subproc_checkTimeLimit():532 pid=49260 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:11][2025-03-30T20:44:09-0700][W][47052] subproc_checkTimeLimit():532 pid=49276 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:11][2025-03-30T20:44:09-0700][W][47053] subproc_checkTimeLimit():532 pid=49288 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:11][2025-03-30T20:44:09-0700][W][47062] subproc_checkTimeLimit():532 pid=49310 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:11][2025-03-30T20:44:09-0700][W][47054] subproc_checkTimeLimit():532 pid=49291 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:11][2025-03-30T20:44:09-0700][W][47058] subproc_checkTimeLimit():532 pid=49320 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:11][2025-03-30T20:44:09-0700][W][47055] subproc_checkTimeLimit():532 pid=49331 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47015] subproc_checkTimeLimit():532 pid=49345 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47011] subproc_checkTimeLimit():532 pid=49346 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47061] subproc_checkTimeLimit():532 pid=49343 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47016] subproc_checkTimeLimit():532 pid=49344 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47010] subproc_checkTimeLimit():532 pid=49352 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47009] subproc_checkTimeLimit():532 pid=49381 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47045] subproc_checkTimeLimit():532 pid=49383 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:09-0700][W][47014] subproc_checkTimeLimit():532 pid=49366 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:10-0700][W][47059] subproc_checkTimeLimit():532 pid=49413 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:10-0700][W][47027] subproc_checkTimeLimit():532 pid=49420 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12][2025-03-30T20:44:10-0700][W][47047] subproc_checkTimeLimit():532 pid=49424 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 20:44:12]Sz:1032 Tm:688,157us (i/b/h/e/p/c) New:0/0/0/0/0/7, Cur:0/0/0/535/1/26407
+[2025-03-30 20:59:42]Sz:40 Tm:7,369,929us (i/b/h/e/p/c) New:0/0/0/0/0/3, Cur:0/0/0/618/1/30652
+[2025-03-30 21:15:43]Sz:779 Tm:238,879us (i/b/h/e/p/c) New:0/0/0/0/0/1, Cur:0/0/0/689/3/33058
+[2025-03-30 21:31:29]Sz:45 Tm:6,063,355us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/708/3/33795
+[2025-03-30 21:46:37]Sz:98 Tm:7,196,323us (i/b/h/e/p/c) New:0/0/0/0/0/4, Cur:0/0/0/747/3/36103
+[2025-03-30 22:02:15][2025-03-30T22:02:14-0700][W][47009] subproc_checkTimeLimit():532 pid=6364 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 22:17:37][2025-03-30T22:17:37-0700][W][47029] subproc_checkTimeLimit():532 pid=38315 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 22:32:48][2025-03-30T22:32:45-0700][W][47015] subproc_checkTimeLimit():532 pid=7247 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 22:47:52]Sz:520 Tm:8,844,137us (i/b/h/e/p/c) New:0/0/0/0/0/2, Cur:0/0/0/4503/22/197893
+[2025-03-30 23:02:52][2025-03-30T23:02:46-0700][W][47014] subproc_checkTimeLimit():532 pid=61283 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 23:18:01][2025-03-30T23:18:01-0700][W][47054] subproc_checkTimeLimit():532 pid=28375 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 23:33:11][2025-03-30T23:33:08-0700][W][47052] subproc_checkTimeLimit():532 pid=55694 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-30 23:48:14][2025-03-30T23:48:11-0700][W][47044] subproc_checkTimeLimit():532 pid=13356 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 00:03:30][2025-03-31T00:03:30-0700][W][47055] subproc_checkTimeLimit():532 pid=38244 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 00:18:47][2025-03-31T00:18:40-0700][W][47061] subproc_checkTimeLimit():532 pid=2537 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 00:34:20][2025-03-31T00:34:16-0700][W][47050] subproc_checkTimeLimit():532 pid=26999 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 00:50:01][2025-03-31T00:49:58-0700][W][47014] subproc_checkTimeLimit():532 pid=53012 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 01:05:21][2025-03-31T01:05:09-0700][W][47041] subproc_checkTimeLimit():532 pid=15447 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 01:20:30][2025-03-31T01:20:26-0700][W][47050] subproc_checkTimeLimit():532 pid=40215 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 01:35:33][2025-03-31T01:35:28-0700][W][47053] subproc_checkTimeLimit():532 pid=3521 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 01:50:38][2025-03-31T01:50:29-0700][W][47011] subproc_checkTimeLimit():532 pid=19987 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 02:05:40][2025-03-31T02:05:21-0700][W][47040] subproc_checkTimeLimit():532 pid=21543 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 02:20:40][2025-03-31T02:20:35-0700][W][47059] subproc_checkTimeLimit():532 pid=29586 took too much time (limit 10 s). Killing it with SIGKILL
+[2025-03-31 02:37:16][2025-03-31T02:37:11-0700][W][47016] subproc_checkTimeLimit():532 pid=60240 took too much time (limit 10 s). Killing it with SIGKILL
