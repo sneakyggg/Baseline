@@ -1,0 +1,7 @@
+[2025-04-02_16:53:52] Total Functions: 1361, Hited Functions: 58 [ 4.261572% ], Hited Edges: 0, Total Edges: 3426
+[2025-04-02_16:54:53] Total Functions: 1363, Hited Functions: 389 [ 28.539985% ], Hited Edges: 0, Total Edges: 3426
+[2025-04-02_16:55:54] Total Functions: 1363, Hited Functions: 389 [ 28.539985% ], Hited Edges: 0, Total Edges: 3426
+[2025-04-02_16:56:55] Total Functions: 1363, Hited Functions: 391 [ 28.686720% ], Hited Edges: 0, Total Edges: 3426
+[2025-04-02_16:57:56] Total Functions: 1363, Hited Functions: 391 [ 28.686720% ], Hited Edges: 0, Total Edges: 3426
+[2025-04-02_16:58:57] Total Functions: 1363, Hited Functions: 391 [ 28.686720% ], Hited Edges: 0, Total Edges: 3426
+[2025-04-02_16:59:58] Total Functions: 1363, Hited Functions: 391 [ 28.686720% ], Hited Edges: 0, Total Edges: 3426

@@ -1,0 +1,5 @@
+real_map_size: 81502
+loging--time, explored-paths, covered-blocks, crashes
+[04-05 00:54], 30            , 2587          , 0
+[04-05 01:24], 793           , 3934          , 0
+[04-05 01:54], 1169          , 4133          , 0

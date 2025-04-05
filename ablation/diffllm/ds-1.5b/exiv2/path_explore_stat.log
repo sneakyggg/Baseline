@@ -1,0 +1,16 @@
+node:188,edge:972,path:2048,min-pl:2,max-pl:11,mean-pl:9,stddev-pl:1570978228.279134,node-cov:74%
+node:58,edge:73,path:89,min-pl:3,max-pl:7,mean-pl:4,stddev-pl:2036009760.529330,node-cov:100%
+node:39,edge:58,path:25,min-pl:3,max-pl:10,mean-pl:7,stddev-pl:2716375824.677780,node-cov:87%
+node:18,edge:18,path:14,min-pl:2,max-pl:4,mean-pl:2,stddev-pl:1.133893,node-cov:100%
+node:17,edge:17,path:9,min-pl:2,max-pl:5,mean-pl:3,stddev-pl:1431655765.000000,node-cov:100%
+node:10,edge:10,path:6,min-pl:3,max-pl:4,mean-pl:3,stddev-pl:0.577350,node-cov:100%
+node:9,edge:8,path:6,min-pl:2,max-pl:3,mean-pl:2,stddev-pl:0.577350,node-cov:100%
+node:4,edge:3,path:2,min-pl:2,max-pl:3,mean-pl:2,stddev-pl:0.707107,node-cov:100%
+node:4,edge:3,path:3,min-pl:2,max-pl:2,mean-pl:2,stddev-pl:0.000000,node-cov:100%
+node:3,edge:2,path:2,min-pl:2,max-pl:2,mean-pl:2,stddev-pl:0.000000,node-cov:100%
+node:3,edge:2,path:2,min-pl:2,max-pl:2,mean-pl:2,stddev-pl:0.000000,node-cov:100%
+node:38,edge:57,path:24,min-pl:3,max-pl:10,mean-pl:7,stddev-pl:2630119582.856431,node-cov:86%
+node:57,edge:72,path:88,min-pl:3,max-pl:7,mean-pl:4,stddev-pl:1995700313.507177,node-cov:100%
+node:9,edge:9,path:5,min-pl:3,max-pl:4,mean-pl:3,stddev-pl:0.447214,node-cov:100%
+node:56,edge:71,path:87,min-pl:3,max-pl:7,mean-pl:4,stddev-pl:2007137085.151222,node-cov:100%
+node:188,edge:972,path:2048,min-pl:2,max-pl:11,mean-pl:9,stddev-pl:1570978228.279134,node-cov:74%

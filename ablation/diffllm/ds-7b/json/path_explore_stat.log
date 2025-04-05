@@ -1,0 +1,7 @@
+node:214,edge:276,path:353,min-pl:3,max-pl:14,mean-pl:8,stddev-pl:2386633637.436003,node-cov:100%
+node:418,edge:544,path:490,min-pl:4,max-pl:21,mean-pl:10,stddev-pl:2858193899.254469,node-cov:100%
+node:298,edge:351,path:383,min-pl:5,max-pl:21,mean-pl:12,stddev-pl:2669877476.881807,node-cov:98%
+node:59,edge:73,path:43,min-pl:4,max-pl:12,mean-pl:8,stddev-pl:2450697180.633693,node-cov:98%
+node:44,edge:73,path:52,min-pl:5,max-pl:9,mean-pl:6,stddev-pl:1458927849.159191,node-cov:100%
+node:60,edge:74,path:220,min-pl:4,max-pl:13,mean-pl:8,stddev-pl:2147483647.027273,node-cov:100%
+node:400,edge:542,path:438,min-pl:3,max-pl:19,mean-pl:9,stddev-pl:3023101109.257263,node-cov:100%
