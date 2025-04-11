@@ -1,0 +1,2 @@
+[2025-04-06_04:22:41] Total Functions: 117620, Hited Functions: 477 [ 0.405543% ], Hited Edges: 0, Total Edges: 362506
+[2025-04-06_04:23:42] Total Functions: 120143, Hited Functions: 8987 [ 7.480253% ], Hited Edges: 0, Total Edges: 362506

@@ -1,0 +1,4 @@
+node:1687,edge:3483,path:683,min-pl:2,max-pl:34,mean-pl:11,stddev-pl:2879510700.534362,node-cov:100%
+node:778,edge:1440,path:308,min-pl:3,max-pl:22,mean-pl:10,stddev-pl:2725180956.006433,node-cov:100%
+node:456,edge:618,path:199,min-pl:2,max-pl:27,mean-pl:11,stddev-pl:2951870150.640381,node-cov:99%
+node:650,edge:885,path:254,min-pl:3,max-pl:29,mean-pl:14,stddev-pl:2939791182.561002,node-cov:99%
